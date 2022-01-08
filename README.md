@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Bishnoi</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
-
+<img align="right" alt ="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep-bishnoi&label=Profile%20views&color=5cc0ff&style=plastic" alt="kuldeep-bishnoi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kuldeep35291291" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeep35291291?logo=twitter&style=for-the-badge" alt="kuldeep35291291" /></a> </p>
