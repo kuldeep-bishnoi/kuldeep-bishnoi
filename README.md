@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kuldeep293031@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡  **Gopher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
